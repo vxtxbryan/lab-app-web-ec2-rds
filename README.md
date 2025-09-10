@@ -1,5 +1,4 @@
-# lab-ap
-# 🚀 Lab 2 – Aplicação Web Dinâmica na AWS (EC2 + RDS + CI/CD)
+# 🚀 Lab – Aplicação Web Dinâmica na AWS (EC2 + RDS + CI/CD)
 
 Este laboratório demonstra a implantação de uma aplicação **Node.js + Express** conectada a um banco **RDS MySQL** em uma instância **EC2**, com **CI/CD automatizado via GitHub Actions**.
 
@@ -19,7 +18,7 @@ RDS MySQL
 
 ---
 
-## 🛠 Serviços Utilizados
+## 🛠  Serviços Utilizados
 
 - **Amazon EC2** → Servidor web  
 - **Amazon RDS (MySQL)** → Banco de dados gerenciado  
@@ -30,7 +29,7 @@ RDS MySQL
 
 ---
 
-## ⚙️ Pré-requisitos
+## ⚙️  Pré-requisitos
 
 - Conta AWS com EC2 e RDS configurados  
 - Node.js e PM2 instalados na EC2
