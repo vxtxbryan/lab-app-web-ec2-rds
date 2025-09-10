@@ -55,6 +55,6 @@ app.post('/users', (req, res) => {
 // Iniciar servidor
 const PORT = 3000;
 app.listen(PORT, () => {
-  console.log(`🚀 App rodando na porta ${PORT}`);
+  console.log(`🚀 Aplicativo rodando na porta ${PORT}`);
 });
 
