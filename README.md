@@ -75,6 +75,14 @@ DB_PORT=suaport
 
 ---
 
+## 📸 Demonstração
+
+<img width="782" height="954" alt="get users db" src="https://github.com/user-attachments/assets/8ae618e8-2421-4d12-8288-da2e67bc3dd6" />
+<img width="775" height="955" alt="post users db" src="https://github.com/user-attachments/assets/b70cb932-2ce6-4245-bdbc-f6cfe917b11c" />
+<img width="780" height="958" alt="get users db create" src="https://github.com/user-attachments/assets/bc446c63-d44d-4a2c-91c8-e7c5b99cde95" />
+
+---
+
 ## 💡 Dicas
 - Liberar portas 22 (SSH) e 3000 (Node.js) no Security Group da EC2
 - Usar PM2 para manter aplicação rodando após fechar SSH
